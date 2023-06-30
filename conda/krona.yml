@@ -1,0 +1,32 @@
+name: krona
+channels:
+  - bioconda
+  - r
+  - defaults
+  - conda-forge
+dependencies:
+  - _libgcc_mutex=0.1
+  - _openmp_mutex=4.5
+  - c-ares=1.19.1
+  - ca-certificates=2023.05.30
+  - curl=8.1.2
+  - keyutils=1.6.1
+  - krb5=1.20.1
+  - krona=2.8.1
+  - libcurl=8.1.2
+  - libedit=3.1.20221030
+  - libev=4.33
+  - libgcc-ng=13.1.0
+  - libgomp=13.1.0
+  - libnghttp2=1.52.0
+  - libnsl=2.0.0
+  - libssh2=1.11.0
+  - libstdcxx-ng=13.1.0
+  - libzlib=1.2.13
+  - lz4-c=1.9.4
+  - ncurses=6.4
+  - openssl=3.1.1
+  - perl=5.32.1
+  - xz=5.4.2
+  - zlib=1.2.13
+  - zstd=1.5.5
